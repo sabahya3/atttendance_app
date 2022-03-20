@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804495986904",
+    "project_id": "attendito",
+    "storage_bucket": "attendito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804495986904:android:dcf6bc25ae68ceb61587ad",
+        "android_client_info": {
+          "package_name": "com.example.attendito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804495986904-jo9sosuqv4rllabmg4g9hp587m0m4anf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendito",
+            "certificate_hash": "478fcfec403f11e0fa4ad195f6553e82d1bc2c12"
+          }
+        },
+        {
+          "client_id": "804495986904-o6r7dajirn4nm96nhoveb05goeui1hab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCktkgB4WKRbSKY4R9Ibv5I8PA__241J5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804495986904-o6r7dajirn4nm96nhoveb05goeui1hab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
